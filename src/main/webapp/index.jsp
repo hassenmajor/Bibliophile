@@ -17,6 +17,8 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Bibliophile</title>
+		<meta name="title" content="Bibliophile - La passion des livres">
+		<meta name="description" content="Mini-projet de bibliothèque participative">
 		<!-- <link rel="stylesheet" type="text/css" href="public/style.css"> -->
 		<style type="text/css">
 			header {
